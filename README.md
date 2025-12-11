@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🟩 比特币打赏（Bitcoin Donation）
 
-<!--
-**seven198/seven198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+如果你愿意支持我的项目开发，可以扫码打赏 BTC 🙏  
+Thank you for supporting my work! ❤️
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **BTC Address**
+`bc1q9d5dhwvkxr4jlv4hpzldqkajhwchdgf5wc86c7`
+
+---
+
+### **🔶 扫码打赏（Bitcoin QR Code）**
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=260x260&data=bc1q9d5dhwvkxr4jlv4hpzldqkajhwchdgf5wc86c7" />
+</p>
+
+---
